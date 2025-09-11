@@ -94,12 +94,6 @@ klayout build/pnr/four_bit_adder.gds
 
 ---
 
-## 📸 Demo
-
-(Add screenshots here – for example, waveform in GTKWave, final layout in KLayout.)
-
----
-
 ## 📜 License
 
 MIT License.  
