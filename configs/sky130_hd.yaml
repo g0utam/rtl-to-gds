@@ -1,0 +1,9 @@
+# Example config for Sky130
+design: four_bit_adder
+top: four_bit_adder
+src_files:
+  - src/full_adder.v
+  - src/four_bit_adder.v
+tb_files:
+  - tb/tb_four_bit_adder.v
+pdk: sky130A
