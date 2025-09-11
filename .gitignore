@@ -1,0 +1,8 @@
+# Ignore build and log outputs
+build/
+logs/
+*.vcd
+*.gds
+*.log
+__pycache__/
+*.pyc
