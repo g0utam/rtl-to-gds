@@ -37,8 +37,8 @@ rtl2gds/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/g0utam/rtl2gds.git
-   cd rtl2gds
+   git clone https://github.com/g0utam/rtl-to-gds.git
+   cd rtl-to-gds
    ```
 
 2. Install dependencies (OpenROAD, Yosys, etc.) and Sky130 PDK:
