@@ -1,4 +1,4 @@
-# RTL2GDS Flow on Sky130 PDK
+# Automated RTL-to-GDS Design Flow
 
 This repository contains a complete RTL-to-GDSII flow using **OpenROAD**, **Yosys**, and the **SkyWater 130nm (Sky130A) PDK**.  
 The example design is a **4-bit ripple-carry adder**, synthesized, placed, routed, and exported to **GDSII**.
