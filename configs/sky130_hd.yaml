@@ -1,4 +1,3 @@
-# Example config for Sky130
 design: four_bit_adder
 top: four_bit_adder
 src_files:
